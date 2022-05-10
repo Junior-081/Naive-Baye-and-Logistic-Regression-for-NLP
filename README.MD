@@ -23,7 +23,7 @@ Logistic Regression is much similar to the Linear Regression except that how the
 
 <div style="display:flex;align-items:center">
     <div>
-        <h5> <a href='https://www.linkedin.com/in/junior-kaningini-a02442196/'>Junior Kaningini</a> </h5> <img src="figures/photo_junior.jpg" height=20% width= 20%>
+        <h5> <a href='https://www.linkedin.com/in/junior-kaningini-a02442196/'>Junior Kaningini</a> </h5> <img src="photo_junior.jpg" height=20% width= 20%>
 <div>
     
 </div>
