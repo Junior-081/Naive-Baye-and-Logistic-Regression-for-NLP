@@ -15,7 +15,9 @@ Logistic Regression is much similar to the Linear Regression except that how the
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P3S1Qieie8Aab1obNL2NU-tA6B3Z7Dwx?usp=sharing)
 
 
+## What is Word Vector ?
 
+Word Embeddings or Word vectorization is a methodology in NLP to map words or phrases from vocabulary to a corresponding vector of real numbers which used to find word predictions, word similarities/semantics. The process of converting words into numbers are called Vectorization. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hTeg9mU5POeJQ-MkonfEhB2zUakG-oka?usp=sharing)
 
 
 # Autor #
