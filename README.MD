@@ -18,6 +18,12 @@ Logistic Regression is much similar to the Linear Regression except that how the
 Word Embeddings or Word vectorization is a methodology in NLP to map words or phrases from vocabulary to a corresponding vector of real numbers which used to find word predictions, word similarities/semantics. The process of converting words into numbers are called Vectorization. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hTeg9mU5POeJQ-MkonfEhB2zUakG-oka?usp=sharing)
 
 
+
+## n-gram models
+
+An N-gram language model predicts the probability of a given N-gram within any sequence of words in the language. If we have a good N-gram model, we can predict p(w | h) – what is the probability of seeing the word w given a history of previous words h – where the history contains n-1 words. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mA8WXHWKzgaEHObVAJS-Iiu6EzNbeimE?usp=sharing)
+
+
 # Autor #
 <div style="display:flex;align-items:center">
 
